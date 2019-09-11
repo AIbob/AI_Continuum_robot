@@ -1,2 +1,2 @@
-# AI_Continuum-robot
+# AI_Continuum_robot
 Control the continuum robot using AI
